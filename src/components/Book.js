@@ -42,7 +42,7 @@ const Book = ({ accessInfo, volumeInfo }) => {
         <a href={volumeInfo.previewLink} target="_blank" rel="noreferrer">
           Preview
         </a>
-        <button>Add To Libraray</button>
+        <button>Add To Library</button>
         <a href={accessInfo.webReaderLink} target="_blank" rel="noreferrer">
           Read More
         </a>

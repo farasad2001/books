@@ -1,6 +1,6 @@
 import { createElement } from "react";
 import { render } from "react-dom";
-import App from "./App2";
+import App from "./App";
 
 import "./styles.css";
 
